@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Remember to use GitHub support. It seems to exist now.
+Remember to use GitHub support. It seems to exist now.  
 https://support.github.com/tickets/personal/0
