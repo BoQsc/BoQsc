@@ -4,8 +4,6 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... Unix and C language.
-
 <!--
 **BoQsc/BoQsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
