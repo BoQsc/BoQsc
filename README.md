@@ -1,4 +1,5 @@
 # [BoQsc]  I've built a lot of bridges, some of them even dance.
+[![](https://openclipart.org/image/400px/311437)](https://openclipart.org/detail/311437/cottage-from-glitch)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boqsc&show_icons=true&theme=merko)](#)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boqsc&layout=compact&theme=merko)](#)  
 [![streamlined version of the Public Domain logo](https://openclipart.org/image/400px/211358)](https://openclipart.org/detail/211358/public-domain-logo)
