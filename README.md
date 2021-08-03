@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 Remember to use GitHub support. It seems to exist now.  
 https://support.github.com/tickets/personal/0
+
+List of interesting folks:  
+https://github.com/C-Chads
