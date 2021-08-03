@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boqsc&show_icons=true&theme=merko)
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning ... Unix and C language.
