@@ -1,7 +1,7 @@
 # [BoQsc]  I've built a lot of bridges, some of them even dance.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boqsc&show_icons=true&theme=merko)](#)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boqsc&layout=compact&theme=merko)](#)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boqsc&show_icons=true&theme=merko)](#)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boqsc&layout=compact&theme=merko)](#)  
+![streamlined version of the Public Domain logo](https://openclipart.org/image/400px/211358)
 
 ### Hi there 👋
 
