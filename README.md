@@ -1,4 +1,4 @@
-# BoQsc
+# BoQsc The Software Engineer
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boqsc&show_icons=true&theme=merko)](#)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boqsc&layout=compact&theme=merko)](#)
 
