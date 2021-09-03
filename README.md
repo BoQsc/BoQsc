@@ -25,3 +25,10 @@ https://support.github.com/tickets/personal/0
 
 List of interesting folks:  
 https://github.com/C-Chads
+
+
+Equipment I've tested and I'm happy about:
+* Logitech K120  Keyboard.
+* Logitech M110s Mouse
+* Desktop Monitor: AOC Q27T1 27inch Ultra Slim with QHD
+* Mousepad: Esperanza Gaming Grunge
