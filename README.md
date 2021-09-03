@@ -33,3 +33,6 @@ Equipment I've tested and I'm happy about:
 * Desktop Monitor: AOC Q27T1 27inch Ultra Slim with QHD
 * Mousepad: Esperanza Gaming Grunge
 * Wireless Router: TP-Link N750
+
+[Profile Picture Backup](https://user-images.githubusercontent.com/21064622/132020698-aa4aea50-7f4a-494d-b73f-df18a07615ab.png)
+
