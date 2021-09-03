@@ -32,3 +32,4 @@ Equipment I've tested and I'm happy about:
 * Logitech M110s Mouse
 * Desktop Monitor: AOC Q27T1 27inch Ultra Slim with QHD
 * Mousepad: Esperanza Gaming Grunge
+* Wireless Router: TP-Link N750
