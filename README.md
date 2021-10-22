@@ -34,12 +34,19 @@ Equipment I've tested and I'm happy about:
 * Mousepad: Esperanza Gaming Grunge
 * Wireless Router: TP-Link N750
 
+
+### Equipment of poor quality and dread
+* Phone Headphones:
+   * |   Name                                                              | Frequency Range | Impedance | Sensitivity |
+     | ----------- | ----------- | ----------- | ----------- |
+     | Esperanza Lollipop with 1.2 meters cable and 3.5mm stereo jack      | 20Hz-20Khz      | 32Ω+3% | 105dB±3db |
+     | Paragraph                                                           | Text            |        |           |
+
 [Profile Picture Backup](https://user-images.githubusercontent.com/21064622/132020698-aa4aea50-7f4a-494d-b73f-df18a07615ab.png)
 
 
 ### Windows 10 CMD.exe from FileManager Shortcut
 Interesting, by typing in cmd into location field, the cmd is being opened with current path.
 ![image](https://user-images.githubusercontent.com/21064622/135114116-50bb4bcc-1001-4a5a-bee4-8499217607e2.png)
-
 
 
