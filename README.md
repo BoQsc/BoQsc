@@ -35,11 +35,11 @@ Equipment I've tested and I'm happy about:
 * Wireless Router: TP-Link N750
 
 
-### Equipment of poor quality and dread
+### Equipment of poor quality or dread
 * Phone earphones/earbuds/headphones:
    * |   Name                                                              | Frequency Range | Impedance | Sensitivity | Max Power Input | Plug Type | Note | 
      | ----------- | ----------- | ----------- | ----------- |----------- | ----------- | ----------- |
-     | Esperanza Lollipop with 1.2 meters cable and 3.5mm stereo jack      | 20Hz-20Khz      | 32Ω+3% | 105dB±3db | 20mW | 3.5mm stereo | 
+     | Tomig earphones                                                     | 00Hz-00Khz      | 00Ω+0% | 000dB±0db | 00mW | 0.0mm stereo | Cable near the plug broke (no safety around cable plug)
      | Esperanza Lollipop with 1.2 meters cable and 3.5mm stereo jack      | 20Hz-20Khz      | 32Ω+3% | 105dB±3db | 20mW | 3.5mm stereo | Poor sound and no in-ear-bass |
 
 
