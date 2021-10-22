@@ -36,7 +36,7 @@ Equipment I've tested and I'm happy about:
 
 
 ### Equipment of poor quality and dread
-* Phone Headphones:
+* Phone earphones:
    * |   Name                                                              | Frequency Range | Impedance | Sensitivity | Max Power Input | Plug Type | 
      | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
      | Esperanza Lollipop with 1.2 meters cable and 3.5mm stereo jack      | 20Hz-20Khz      | 32Ω+3% | 105dB±3db | 20mW | 3.5mm stereo | 
