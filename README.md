@@ -36,7 +36,7 @@ Equipment I've tested and I'm happy about:
 
 
 ### Equipment of poor quality or dread
-Phone earphones/earbuds/headphones:
+Earphones/earbuds/headphones:
  |  Name                                                              | Frequency Range | Impedance | Sensitivity | Max Power Input | Plug Type | Note | Price |
  | ----------- | ----------- | ----------- | ----------- |----------- | ----------- | ----------- | ----------- |
  | ![image](https://user-images.githubusercontent.com/21064622/138446627-7ef70f73-b663-4d28-aa50-cab9777a37ba.png) Tomig earphones                                                     | 20Hz-20Khz      | 32Ω+3% | 105dB±3db | 20mW | 3.5mm stereo | Cable near the plug broke (no safety around cable plug) | ~9 € |
