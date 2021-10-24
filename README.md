@@ -35,7 +35,7 @@ Equipment I've tested and I'm happy about:
 * Wireless Router: TP-Link N750
 
 
-### Equipment of poor quality or dread
+### 🚫 Equipment of poor quality or dread 
 Earphones/earbuds/headphones:
  |  Name                                                              | Frequency Range | Impedance | Sensitivity | Max Power Input | Plug Type | Note | Price |
  | ----------- | ----------- | ----------- | ----------- |----------- | ----------- | ----------- | ----------- |
