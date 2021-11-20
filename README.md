@@ -46,7 +46,7 @@ Equipment I've tested and I'm happy about:
   ```
 * Mousepad: Esperanza Gaming Grunge
 * Wireless Router: TP-Link N750
-
+* Logitech MX518 (Release date: 2005)
 
 ### 🚫 Equipment of poor quality or dread 
 Earphones/earbuds/headphones:
