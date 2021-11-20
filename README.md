@@ -30,7 +30,7 @@ https://github.com/C-Chads
 Equipment I've tested and I'm happy about:
 * Logitech K120  Keyboard.
 * Logitech M110s Mouse
-* Desktop Monitor: AOC Q27T1 27inch Ultra Slim with QHD
+* Desktop Monitor: [AOC Q27T1 27inch Ultra Slim with QHD](https://eu.aoc.com/en/products/monitors/i2481fxh)
   ```
   Manufacturer---AOC
   Model------2481W
