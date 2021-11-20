@@ -31,6 +31,19 @@ Equipment I've tested and I'm happy about:
 * Logitech K120  Keyboard.
 * Logitech M110s Mouse
 * Desktop Monitor: AOC Q27T1 27inch Ultra Slim with QHD
+  ```
+  Manufacturer---AOC
+  Model------2481W
+  Serial Number---AJEH49A010243
+  Week of Manufacture------17
+  Year of Manufacture------2017
+  Horizontal range---30--83KHz
+  Vertical range---50--76Hz
+  Video bandwidth---170MHz
+  Recommendation---1920x1080
+  EDID Version------1.3
+  DDC CI Support------Yes
+  ```
 * Mousepad: Esperanza Gaming Grunge
 * Wireless Router: TP-Link N750
 
