@@ -45,7 +45,7 @@ Equipment I've tested and I'm happy about:
   DDC CI Support------Yes
   ```
 * Mousepad: Esperanza Gaming Grunge EA146 Green/Black
-* Wireless Router: TP-Link N750
+* Wireless Router: [TP-Link N750](https://www.tp-link.com/us/home-networking/wifi-router/tl-wdr4300/)
 * Logitech MX518 Mouse (Release date: 2005)
 
 ### 🚫 Equipment of poor quality or dread 
