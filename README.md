@@ -28,8 +28,8 @@ https://github.com/C-Chads
 
 
 Equipment I've tested and I'm happy about:
-* Logitech K120  Keyboard.
-* Logitech M110s Mouse
+* [Logitech K120 Keyboard.](https://www.logitech.com/en-roeu/products/keyboards/k120-usb-standard-computer.html)
+* [Logitech M110s Mouse](https://www.logitech.com/en-roeu/products/mice/m110-silent-corded-mouse.910-005488.html)
 * Desktop Monitor: [AOC 2481W 24inch Ultra Slim with QHD](https://eu.aoc.com/en/products/monitors/i2481fxh)
   ```
   Manufacturer---AOC
@@ -44,9 +44,9 @@ Equipment I've tested and I'm happy about:
   EDID Version------1.3
   DDC CI Support------Yes
   ```
-* Mousepad: Esperanza Gaming Grunge
+* Mousepad: Esperanza Gaming Grunge EA146 Green/Black
 * Wireless Router: TP-Link N750
-* Logitech MX518 (Release date: 2005)
+* Logitech MX518 Mouse (Release date: 2005)
 
 ### 🚫 Equipment of poor quality or dread 
 Earphones/earbuds/headphones:
