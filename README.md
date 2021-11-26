@@ -65,7 +65,7 @@ Earphones/earbuds/headphones:
 
 ### Future Equipment
 * FIFINE K670 Microphone (Recommendation from https://www.youtube.com/watch?v=L9hM-Ch-jk0 )
-
+  * Booth treatment ( https://www.youtube.com/watch?v=7Wjc_Hv5xAQ )
 
 [Profile Picture Backup](https://user-images.githubusercontent.com/21064622/132020698-aa4aea50-7f4a-494d-b73f-df18a07615ab.png)
 
