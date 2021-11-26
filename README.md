@@ -63,6 +63,9 @@ Earphones/earbuds/headphones:
  | Example                                                     | 00Hz-00Khz      | 00Ω+0% | 000dB±0db | 00mW | 0.0mm stereo | Note | ~.0 € | 
 
 
+### Future Equipment
+* FIFINE K670 Microphone (Recommendation from https://www.youtube.com/watch?v=L9hM-Ch-jk0 )
+
 
 [Profile Picture Backup](https://user-images.githubusercontent.com/21064622/132020698-aa4aea50-7f4a-494d-b73f-df18a07615ab.png)
 
