@@ -67,7 +67,7 @@ Earphones/earbuds/headphones:
 * FIFINE K670 Microphone (Recommendation from https://www.youtube.com/watch?v=L9hM-Ch-jk0 )
   *  Positive Comments on https://www.youtube.com/watch?v=iOCqkldhhRE
   * Booth treatment ( https://www.youtube.com/watch?v=7Wjc_Hv5xAQ )
-* A chair with lumbar support 
+* A chair with lumbar support and air conditioning.
 
 [Profile Picture Backup](https://user-images.githubusercontent.com/21064622/132020698-aa4aea50-7f4a-494d-b73f-df18a07615ab.png)
 
