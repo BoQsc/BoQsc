@@ -70,6 +70,8 @@ Earphones/earbuds/headphones:
 * A chair with lumbar support
 * 10 dollar mini stand for mic or $75 boom arm
 * Rode PodMic 119,00 € (https://soundium.lt/rode-podmic)
+* ![image](https://user-images.githubusercontent.com/21064622/172068509-2338c18f-956a-49d4-8bdf-fd1a0c405ba8.png)
+
 
 [Profile Picture Backup](https://user-images.githubusercontent.com/21064622/132020698-aa4aea50-7f4a-494d-b73f-df18a07615ab.png)
 
