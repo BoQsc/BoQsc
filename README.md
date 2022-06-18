@@ -5,6 +5,8 @@ Hi I'm Vaidas, and I'm learning software development with interest to understand
 Improving understanding and proper use of technology for the general benefits and efficiency.
 My other interest is in Economics History.
 
+You can contact me or start a discussion on any topic here:  
+https://github.com/orgs/vaido-world/discussions
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boqsc&show_icons=true&theme=merko)](#)     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boqsc&layout=compact&theme=merko)](#)    
