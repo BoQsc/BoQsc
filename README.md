@@ -25,7 +25,8 @@ And I do hope to comeback to this book from time to time.
 https://archive.org/details/THEGRAMMAROFENGLISHGRAMMARS
 
 In relation, [![image](https://user-images.githubusercontent.com/21064622/174443975-4fbe92e5-22fe-489a-a3b3-1fc56212252b.png)
-Gutenberg project](https://www.gutenberg.org/) is one of many places I check for books.
+Gutenberg project](https://www.gutenberg.org/) is one of many places I check for books.  
+I endorse Public Domain.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boqsc&show_icons=true&theme=merko)](#)     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boqsc&layout=compact&theme=merko)](#)    
