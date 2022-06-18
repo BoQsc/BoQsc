@@ -6,7 +6,9 @@ Improving understanding and proper use of technology for the general benefits an
 My other interest is in Economics History.
 
 You can contact me or start a discussion on any topic here:  
-https://github.com/orgs/vaido-world/discussions
+
+[![image](https://user-images.githubusercontent.com/21064622/174441705-82e2f6c2-52c7-42d5-94ba-23a02b22f2d3.png)](https://github.com/orgs/vaido-world/discussions)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boqsc&show_icons=true&theme=merko)](#)     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boqsc&layout=compact&theme=merko)](#)    
