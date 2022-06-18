@@ -1,5 +1,6 @@
 [![streamlined version of the Public Domain logo](https://openclipart.org/image/400px/211358)](https://openclipart.org/detail/211358/public-domain-logo)  
 ---
+![image](https://user-images.githubusercontent.com/21064622/174440303-6e62df49-9ef9-40fb-9733-cddc0575f7ab.png)
 Hi I'm Vaidas, and I'm learning software development with interest to understand the fundamentals. 
 Improving understanding and proper use of technology for the general benefits and efficiency.
 My other interest is in Economics History.
