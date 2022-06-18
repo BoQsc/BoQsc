@@ -35,7 +35,7 @@ I endorse Public Domain.
 
 [9]:https://user-images.githubusercontent.com/21064622/174444950-014ec747-13f5-4594-80ac-4181f5377182.png
 
-I also have some personal Youtube Channels.
+I also have some personal Youtube Channels.  
 And as of now use Discord.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boqsc&show_icons=true&theme=merko)](#)     
