@@ -9,6 +9,10 @@ You can contact me or start a discussion on any topic here:
 
 [![image](https://user-images.githubusercontent.com/21064622/174441705-82e2f6c2-52c7-42d5-94ba-23a02b22f2d3.png)](https://github.com/orgs/vaido-world/discussions)
 
+I've used to play a little bit of Company of Heroes back in the day.  
+[Here is my Steam Profile.  
+![image](https://user-images.githubusercontent.com/21064622/174442066-7ed757c4-57e3-4431-acfe-fb9461930616.png)](https://steamcommunity.com/profiles/76561198072601792)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boqsc&show_icons=true&theme=merko)](#)     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boqsc&layout=compact&theme=merko)](#)    
