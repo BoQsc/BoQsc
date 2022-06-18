@@ -35,6 +35,8 @@ I endorse Public Domain.
 
 [9]:https://user-images.githubusercontent.com/21064622/174444950-014ec747-13f5-4594-80ac-4181f5377182.png
 
+I also have some personal Youtube Channels.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boqsc&show_icons=true&theme=merko)](#)     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boqsc&layout=compact&theme=merko)](#)    
 [Search all organisations | old stuff](https://github.com/search?q=language%3Ad+org%3Aclanguage-org++org%3Adashtopaneldev++org%3AFeldoworh++org%3AGarbageProjects++org%3Ainternationl++org%3Anon-copyrighted++org%3Aprocessor-programming-language++org%3APublicdomain-org++org%3APurposeTechnology++org%3Avaido-world++org%3AWebCitation++org%3Awoodedworld)
