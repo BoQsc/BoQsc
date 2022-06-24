@@ -13,7 +13,7 @@ I've used to play a little bit of Company of Heroes back in the day.
 [Here is my Steam Profile.  
 ![image](https://user-images.githubusercontent.com/21064622/174442066-7ed757c4-57e3-4431-acfe-fb9461930616.png)](https://steamcommunity.com/profiles/76561198072601792)
 
-I'm also a proud user of [![image](https://user-images.githubusercontent.com/21064622/174442531-db9f3202-ddd2-44d8-bc77-0190aba2f98d.png)
+I'm also a snuggly user of [![image](https://user-images.githubusercontent.com/21064622/174442531-db9f3202-ddd2-44d8-bc77-0190aba2f98d.png)
 Olive Video Editor](https://github.com/olive-editor/olive).  
 Sometimes, I do [![image](https://user-images.githubusercontent.com/21064622/174442828-651156eb-f2ee-4f4f-af18-90034b0de9c5.png)
 Sustainability Advocacy](https://forum.tzm.community/) and promote [![image](https://user-images.githubusercontent.com/21064622/174443105-ff57de4f-8275-4053-a2d8-d8adfb4f675f.png)
