@@ -116,6 +116,9 @@ Earphones/earbuds/headphones:
 * ![image](https://user-images.githubusercontent.com/21064622/172068509-2338c18f-956a-49d4-8bdf-fd1a0c405ba8.png)
 
 
+Need to consider:
+* Portable Electric kettles and thermos
+
 [Profile Picture Backup](https://user-images.githubusercontent.com/21064622/132020698-aa4aea50-7f4a-494d-b73f-df18a07615ab.png)
 
 
