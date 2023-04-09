@@ -126,6 +126,14 @@ Need to consider:
 Interesting, by typing in cmd into location field, the cmd is being opened with current path.
 ![image](https://user-images.githubusercontent.com/21064622/135114116-50bb4bcc-1001-4a5a-bee4-8499217607e2.png)
 
+### Elantech enable touchpad while typing
+```
+Computer\HKEY_USERS\S-1-5-21-927361018-3384101047-793522932-1001\SOFTWARE\Elantech\SmartPad
+```
+![image](https://user-images.githubusercontent.com/21064622/230782534-256570e9-3b91-4eea-baec-bf7648eab25a.png)
+![image](https://user-images.githubusercontent.com/21064622/230782549-08f9a469-bef3-41a6-bf19-a1300f72400c.png)
+
+
 Public Domain.
 Without Copyright.
 Complete Open Source.
