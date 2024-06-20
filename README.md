@@ -8,7 +8,7 @@
 
 
 
-Pronounced: Bouqusc
+Pronounced: BouquSC
 
 
 https://md2bb.mizle.net/  
