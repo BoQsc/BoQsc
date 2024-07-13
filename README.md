@@ -8,7 +8,7 @@
 
 
 
-Pronounced: BouquSC
+Pronounced: BioQuSC
 
 
 https://md2bb.mizle.net/  
