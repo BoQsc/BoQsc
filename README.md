@@ -8,7 +8,7 @@
 
 
 
-Pronounced: BioquSC
+Pronounced: boku-sc
 boqsc.eu
 
 
