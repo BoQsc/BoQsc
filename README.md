@@ -14,3 +14,6 @@ boqsc.eu
 
 https://md2bb.mizle.net/  
 Markdown to Steam BBcode converter.
+
+
+Topic to research: Historical Thesaurus
