@@ -17,3 +17,6 @@ Markdown to Steam BBcode converter.
 
 
 Topic to research: Historical Thesaurus
+
+Phishing falseflag on Edge Browser resolvance
+https://feedback.smartscreen.microsoft.com/feedback.aspx?result=block&t=16&URL=yourwebsite.eu
