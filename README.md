@@ -21,5 +21,7 @@ Topic to research: Historical Thesaurus
 ### 2026 Phishing falseflag on Edge Browser resolvance    
 * change `URL=yourwebsite.eu` before filling up the form.
 * remember to have a working privacy html page.
+* remember to use real email and answer to email after 24h.
+* in a day or two this will get resolved.
 
 https://feedback.smartscreen.microsoft.com/feedback.aspx?result=block&t=16&URL=yourwebsite.eu  
