@@ -39,6 +39,15 @@ Root — the starting node of a structure.
 Node — a structural element that can contain items or connect through links.
 Item — a contained element of a node.
 Link — a connection between nodes.
+
+        Root
+          |
+        Node
+       /    \
+    Item    Item
+              |
+            Item
+
 ```
 
 
