@@ -25,4 +25,20 @@ https://feedback.smartscreen.microsoft.com/feedback.aspx?result=block&t=16&URL=y
 * remember to use real email and answer to email after 24h.
 * in a day or two this will get resolved.
 
+#### Tree terminology
+
+```
+Root
+ └─ Node
+     ├─ Item
+     └─ Item
+
+Node ── Link ── Node
+
+Root — the starting node of a structure.
+Node — a structural element that can contain items or connect through links.
+Item — a contained element of a node.
+Link — a connection between nodes.
+```
+
 
