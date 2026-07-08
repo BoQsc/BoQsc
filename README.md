@@ -48,6 +48,42 @@ Link — a connection between nodes.
               |
             Item
 
+
+Possible alternatives for Item:
+
+Item       — general, simple
+Element    — formal, structural
+Part       — contained piece
+Member     — belongs to a group
+Entry      — stored element
+Unit       — independent piece
+Component  — functional piece
+Object     — programming object
+Entity     — identifiable thing
+
+Possible alternatives for Link:
+
+Link       — general connection
+Edge       — graph theory term
+Relation   — abstract connection
+Connection — explicit relationship
+Path       — directional route
+
+Possible alternatives for Root:
+
+Root       — origin/top
+Base       — foundation
+Origin     — starting point
+Core       — central point
+
+Possible alternatives for Node:
+
+Node       — standard structure element
+Element    — generic structure element
+Unit       — basic element
+Object     — program object
+Entity     — identifiable object
+
 ```
 
 
